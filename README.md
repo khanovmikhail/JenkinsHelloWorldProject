@@ -1,3 +1,1 @@
 # JenkinsHelloWorldProject
-
-Edit readme
